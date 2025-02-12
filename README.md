@@ -8,8 +8,8 @@ Based on materials by KMCSZ:
   
 ## Collection Status
 ### In Progress
-- Földrajz: Térkép
-- Földrajz: Kérdések
+- [Földrajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-T%C3%A9rk%C3%A9p).apkg)
+- [Földrajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-K%C3%A9rd%C3%A9sek).apkg)
 
 ### Planned
 - Nyelv/Kultura
