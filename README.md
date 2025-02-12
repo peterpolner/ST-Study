@@ -1,5 +1,5 @@
 # ST-Study
-A repository of Anki flashcards to prepare for the KMCSSZ ST certification test.
+A repository of [Anki flashcards](https://apps.ankiweb.net/) to prepare for the KMCSSZ ST certification test.
 ## Collection Status
 ### In Progress
 - Földrajz: Térkép
@@ -14,4 +14,4 @@ A repository of Anki flashcards to prepare for the KMCSSZ ST certification test.
 ### Complete
 - N/A
 
-All rights reserved Hungarian Scout Association in Exteris
+All rights reserved [Hungarian Scout Association in Exteris](https://kmcssz.org/).
