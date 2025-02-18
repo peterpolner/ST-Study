@@ -15,8 +15,8 @@ Based on materials by KMCSZ:
   
 ## Collection Status
 ### In Progress
-- [Földrajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-T%C3%A9rk%C3%A9p).apkg)
-- [Földrajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-K%C3%A9rd%C3%A9sek).apkg)
+- [Földrajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-T%C3%A9rk%C3%A9p).apkg) (Q1-3,10-11,19,48,64,75,79)
+- [Földrajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-K%C3%A9rd%C3%A9sek).apkg) (Q4-9,12-18,20-47,49-63,65-74,76-78,80-81)
 
 ### Planned
 - Nyelv/Kultura
