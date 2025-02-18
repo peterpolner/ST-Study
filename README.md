@@ -7,6 +7,12 @@ Based on materials by KMCSZ:
 - [Workbook](https://kmcssz.org/wp-content/uploads/2021/04/MIST-munkafuzet-igy-ment-nyomdaba.pdf)
 
 *Answers for this are not proven to be correct, but based upon material(s). Only intended to be used as a study tool.*
+## Usage Directions
+1. Download Anki for [Desktop](https://apps.ankiweb.net/). No Ankiweb account required.
+2. Download and import .apkg files into software.
+3. Start Studying flashcards
+   1. For optimal learning use the Anki interface (using shortcut keys to show learning). However this can bury the cards in review for a while, reset using the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu.  
+  
 ## Collection Status
 ### In Progress
 - [Földrajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-T%C3%A9rk%C3%A9p).apkg)
@@ -20,12 +26,5 @@ Based on materials by KMCSZ:
 
 ### Complete
 - N/A
-
-## Usage Directions
-1. Download Anki for [desktop](https://apps.ankiweb.net/). No Ankiweb account required.
-2. Download and import .apkg files into software.
-3. Start Studying flashcards
-   1. for optimal learning use the Anki interface (using shortcut keys to show learning). However this can bury the cards in review for a while, reset using the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu.  
   
-All Materials Respective of Original Rights Holder(s)  
-[Hungarian Scout Association in Exteris](https://kmcssz.org/), [Anki](https://apps.ankiweb.net/).
+All Materials Respective of Original Rights Holder(s): [Hungarian Scout Association in Exteris](https://kmcssz.org/), [Anki](https://apps.ankiweb.net/).
