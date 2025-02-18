@@ -5,7 +5,8 @@ Based on materials by KMCSZ:
 >``Tóthné-Kollár, K., Szeghalmi, Z., Némethyné-kesserű, J., Dömötör, É., Dömötör, G., Mészáros, A., Thurner, K., & Pillerné-Tirczka, É. (2014). Magyarságismeret Segédtisztek Számára. (G. Dömötör & E. Hársi, Eds.) Külföldi Magyar Cserkészszövetség E-Library. https://kmcssz.org/e-konyvtar/`` 
 - [Textbook](https://kmcssz.org/wp-content/uploads/2021/04/Segedtiszt-Tananyag-konyv-Olvaso-verzio.pdf)
 - [Workbook](https://kmcssz.org/wp-content/uploads/2021/04/MIST-munkafuzet-igy-ment-nyomdaba.pdf)
-  
+
+*Answers for this are not proven to be correct, but based upon material(s). Only intended to be used as a study tool.*
 ## Collection Status
 ### In Progress
 - [Földrajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-T%C3%A9rk%C3%A9p).apkg)
