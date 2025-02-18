@@ -22,7 +22,8 @@ Based on materials by KMCSZ:
 ### Planned
 - Magyar Nyelv
 - Irodalom
-- Néprajz
+- Néprajz: Térkép
+- Néprajz: Kérdések
 - Történelem
 
 ### Complete
