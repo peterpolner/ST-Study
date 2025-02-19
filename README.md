@@ -11,11 +11,14 @@ Based on materials by KMCSZ:
 1. Download Anki for [Desktop](https://apps.ankiweb.net/). No Ankiweb account required.
 2. Download and import .apkg files into software.
 3. Start Studying flashcards
-   1. For optimal learning use the Anki interface (using shortcut keys to show learning). However this can bury the cards in review for a while, reset using the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu.  
+   1. For optimal learning review daily and use the Anki interface (using shortcut keys to show learning).
+      >This can bury the cards in review for a while, if you want to reset use the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu.
+   2. Adjust daily study limits and card settings to personalize learning.
+   3. Add own review questions to enhance memorization.
   
 ## Collection Status
 ### In Progress
-- [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg). (Q1-52)
+- [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
 - Néprajz: Térkép
 - Néprajz: Kérdések
 
