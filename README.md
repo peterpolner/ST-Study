@@ -15,7 +15,7 @@ Based on materials by KMCSZ:
   
 ## Collection Status
 ### In Progress
-- Irodalom
+- [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg). (Q1-52)
 - Néprajz: Térkép
 - Néprajz: Kérdések
 
