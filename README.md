@@ -20,7 +20,7 @@ Based on materials by KMCSZ:
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
 - [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-7,9-31)
-- [Történelem]() (Q1-56)
+- [Történelem](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(T%C3%B6rt%C3%A9nelem).apkg) (Q1-56)
   
 ### Planned
 - [Magyar Nyelv]() (Q1-6)
