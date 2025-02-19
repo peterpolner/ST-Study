@@ -19,8 +19,8 @@ Based on materials by KMCSZ:
 ## Collection Status
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
-- Néprajz: Térkép
-- Néprajz: Kérdések
+- [Néprajz: Térkép]()
+- [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-31)
 
 ### Planned
 - Magyar Nyelv
