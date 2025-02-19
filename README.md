@@ -16,14 +16,15 @@ Based on materials by KMCSZ:
    2. Adjust daily study limits and card settings to personalize learning.
    3. Add own review questions to enhance memorization.
   
-## Collection Status
+## Collection Info (Status)
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
 - [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-7,9-31)
-
+- [Történelem]() (Q1-56)
+  
 ### Planned
-- Magyar Nyelv
-- Történelem
+- [Magyar Nyelv]() (Q1-6)
+- [Helyes irás]() (L1-15)
 
 ### Complete
 - [Kultúra (Mai Magyar Kifejezések)](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra).apkg) (Q1-44)
