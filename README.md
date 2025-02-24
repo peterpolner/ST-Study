@@ -1,5 +1,5 @@
 # ST-Study
-A repository of [Anki flashcards](https://apps.ankiweb.net/) to prepare for the KMCSSZ ST certification test.
+A repository of [Anki flashcards](https://apps.ankiweb.net/) to prepare for the KMCSSZ ST certification test.  
   
 Based on materials by KMCSZ:  
 >``Tóthné-Kollár, K., Szeghalmi, Z., Némethyné-kesserű, J., Dömötör, É., Dömötör, G., Mészáros, A., Thurner, K., & Pillerné-Tirczka, É. (2014). Magyarságismeret Segédtisztek Számára. (G. Dömötör & E. Hársi, Eds.) Külföldi Magyar Cserkészszövetség E-Library. https://kmcssz.org/e-konyvtar/`` 
@@ -17,6 +17,9 @@ Based on materials by KMCSZ:
    3. Add own review questions to enhance memorization.
   
 ## Collection Info (Status)
+All numbered questions are from the workbook, but rewritten to fit the flashcard format.  
+Additional questions Marked with ``*`` are self prepared questions or vocabulary terms.  
+  
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
 - [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-7,9-31)
