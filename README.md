@@ -8,11 +8,11 @@ Based on materials by KMCSZ:
 
 *Answers for this are not proven to be correct, but based upon material(s). Only intended to be used as a study tool.*
 ## Usage Directions
-1. Download Anki for [Desktop](https://apps.ankiweb.net/). No Ankiweb account required.
+1. Download Anki for [Desktop](https://apps.ankiweb.net/), [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)/(free alternatives in the iOS store), or [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&pli=1). No Ankiweb account required.
 2. Download and import .apkg files into software.
 3. Start Studying flashcards
    1. For optimal learning review daily and use the Anki interface (using shortcut keys to show learning).
-      >This can bury the cards in review for a while, if you want to reset use the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu.
+      >This can bury the cards in review for a while, if you want to reset use the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu. This can be different in mobile apps.
    2. Adjust daily study limits and card settings to personalize learning.
    3. Add own review questions to enhance memorization.
   
