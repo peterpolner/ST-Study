@@ -18,7 +18,7 @@ Based on materials by KMCSZ:
   
 ## Collection Info (Status)
 All numbered questions are from the workbook, but rewritten to fit the flashcard format.  
-Additional questions Marked with ``*`` are self prepared questions or vocabulary terms.  
+Additional questions Marked with ``*`` are self prepared questions, questions marked with ``^`` are vocabulary terms.  
   
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
