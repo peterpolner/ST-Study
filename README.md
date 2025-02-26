@@ -17,9 +17,10 @@ Based on materials by KMCSZ:
    3. Add own review questions to enhance memorization.
   
 ## Collection Info (Status)
-All numbered questions are from the workbook, but rewritten to fit the flashcard format.  
-Additional questions Marked with ``*`` are self prepared questions, questions marked with ``^`` are vocabulary terms.  
-  
+1. All numbered questions are from the workbook, but rewritten to fit the flashcard format.  
+2. Additional questions Marked with ``*`` are self prepared questions.
+3. Questions marked with ``^`` are vocabulary (Szókincs) terms.  
+
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
 - [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-7,9-31)
@@ -28,7 +29,8 @@ Additional questions Marked with ``*`` are self prepared questions, questions ma
 ### Planned
 - [Magyar Nyelv]() (Q1-6)
 - [Helyes irás]() (L1-15)
-- Create separate [Szókincs]() deck, excluding Irodalom/Néprajz(Maybe) Terms.
+- Create separate [Szókincs]() deck.
+- Create separate Picture decks for Néprajz + Történelem.
 
 ### Complete
 - [Kultúra (Mai Magyar Kifejezések)](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra).apkg) (Q1-44 + Partial Szókincs)
