@@ -10,6 +10,7 @@ Based on materials by KMCSZ:
 ## Usage Directions
 1. Download Anki for [Desktop](https://apps.ankiweb.net/), [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)/(free alternatives in the iOS store), or [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&pli=1). No Ankiweb account required.
 2. Download and import .apkg files into software.
+   1. For Mobile use the browser version of Github to download the files.
 3. Start Studying flashcards
    1. For optimal learning review daily and use the Anki interface (using shortcut keys to show learning).
       >This can bury the cards in review for a while, if you want to reset use the ``Ctr+Alt+N`` shortcut along with the ``Browse`` Menu. This can be different in mobile apps.
@@ -30,7 +31,7 @@ Based on materials by KMCSZ:
 - [Magyar Nyelv]() (Q1-6)
 - [Helyes irás]() (L1-15)
 - Create separate [Szókincs]() deck.
-- Create separate Picture decks for Néprajz + Történelem.
+- Create separate [Picture]() decks for Néprajz + Történelem.
 
 ### Complete
 - [Kultúra (Mai Magyar Kifejezések)](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra).apkg) (Q1-44 + Partial Szókincs)
