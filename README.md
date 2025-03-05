@@ -23,14 +23,15 @@ Based on materials by KMCSZ:
 3. Questions marked with ``^`` are vocabulary (Szókincs) terms.  
 
 ### In Progress
-- [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52)
+- [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52 + Verselemzés)
 - [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-7,9-31)
 - [Történelem](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(T%C3%B6rt%C3%A9nelem).apkg) (Q1-56)
+- [Magyar Nyelv](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Magyar-Nyelv).apkg) (Q1-6)
   
 ### Planned
-- [Magyar Nyelv]() (Q1-6)
 - [Helyes irás]() (L1-15)
-- Create separate [Szókincs]() deck.
+- Create separate [Verselemzés]() deck.
+- Create separate [Szókincs]() deck(s).
 - Create separate [Picture]() decks for Néprajz + Történelem.
 
 ### Complete
