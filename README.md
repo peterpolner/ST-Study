@@ -24,26 +24,26 @@ Based on materials by KMCSZ:
 
 ### In Progress
 - [Irodalom](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom).apkg) (Q1-52 + Verselemzés)
-- [Irodalom-verselemzés](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom-Verselemz%C3%A9s).apkg)
-- [Irodalom-szókincs](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom-Sz%C3%B3kincs).apkg)
+- [Irodalom: Verselemzés](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom-Verselemz%C3%A9s).apkg)
+- [Irodalom: Szókincs](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Irodalom-Sz%C3%B3kincs).apkg)
 - [Néprajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-K%C3%A9rd%C3%A9sek).apkg) (Q1-7,9-31)
 - [Történelem](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(T%C3%B6rt%C3%A9nelem).apkg) (Q1-56)
 - [Magyar Nyelv](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Magyar-Nyelv).apkg) (Q1-6)
-- [kulúra-szókincs](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra-Sz%C3%B3kincs).apkg)
+- [Kultúra: Szókincs](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra-Sz%C3%B3kincs).apkg)
 - 
   
 ### Planned
 - [Helyes irás]() (L1-15)
-- Create separate [Picture]() decks for Néprajz
+- Create separate [Picture]() deck for Néprajz
 
 ### Complete
 Core:
-- [Kultúra (Mai Magyar Kifejezések)](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra).apkg) (Q1-44 + Partial Szókincs)
+- [Kultúra (Mai Magyar Kifejezések)](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(Kult%C3%BAra).apkg) (Q1-44)
 - [Földrajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-T%C3%A9rk%C3%A9p).apkg) (Q1-3,10-11,19,48,64,75,79)
 - [Földrajz: Kérdések](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(F%C3%B6ldrajz-K%C3%A9rd%C3%A9sek).apkg) (Q4-9,12-18,20-47,49-63,65-74,76-78,80-81)
 - [Néprajz: Térkép](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(N%C3%A9prajz-T%C3%A9rk%C3%A9p).apkg) (Q8)  
   
 Extra Credit:
-- [Történelem-képek](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(T%C3%B6rt%C3%A9nelem-K%C3%A9pek).apkg)
+- [Történelem: Képek](https://github.com/peterpolner/ST-Study/blob/main/ST%20Magyars%C3%A1gismeret%20(T%C3%B6rt%C3%A9nelem-K%C3%A9pek).apkg)
   
 All Materials Respective of Original Rights Holder(s): [Hungarian Scout Association in Exteris](https://kmcssz.org/), [Anki](https://apps.ankiweb.net/).
